@@ -1,0 +1,31 @@
+body{
+	background-color: #fdfff4;
+	body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+img { 
+    width: 100%; 
+}
+}
+.container {
+	max-width: 750px;
+	margin: 0 auto;
+}
+
+.headline {
+	font-size: 100px;
+	line-height:  95px;
+	font-family: Helvetica;
+}
+
+.body {
+	font-family: Georgia;
+	font-size: 22px;
+	line-height: 32px;
+}
+.youtube{
+	display: block;
+	margin: 0 auto;
+}
+
