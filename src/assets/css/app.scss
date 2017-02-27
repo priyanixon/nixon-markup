@@ -1,26 +1,52 @@
 body{
-	background-color: #fdfff4;
+	background-color: #ffffff;
 	body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
 img { 
-    width: 100%; 
+    width: 100%;
+    border-radius: 30%;
 }
 }
 .container {
 	max-width: 750px;
 	margin: 0 auto;
 }
-
 .headline {
-	font-size: 100px;
+	font-size: 65px;
 	line-height:  95px;
-	font-family: Helvetica;
+	font-family: Quicksand;
+}
+.headline-two {
+	font-size: 25px;
+	line-height: 45px;
+	font-family: Sintony;
+
 }
 
+.h3 {
+	font-size: 25px;
+	line-height: 65px;
+	font-family: sans-serif;
+}
+.headline-four {
+	font-size: 25px;
+	line-height:65px;
+	font-family: Sintony;
+}
+.headline-five {
+	font-size: 25px;
+	line-height: 65px;
+	font-family: Sintony;
+}
+.headline-six {
+	font-size: 25px;
+	line-height: 65px;
+	font-family: Sintony;
+}
 .body {
-	font-family: Georgia;
+	font-family: Habibi;
 	font-size: 22px;
 	line-height: 32px;
 }
